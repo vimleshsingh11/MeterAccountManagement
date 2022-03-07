@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "akLAyIXEvz4twBwmpr7EWU7s4ihHDN4kNMnKgA0Fl/hbvB/N2riWNPUAnfXFY6EcB2yr9dP5FLM1aOxOi1hf9A==",
+  "success": true,
+  "projectFilePath": "/Users/Vimlesh.Singh/Projects/Meter-Account-Management/Services.Account.Surface/Services.Account.Surface.csproj",
+  "expectedPackageFiles": [
+    "/Users/Vimlesh.Singh/.nuget/packages/dnsclient/1.4.0/dnsclient.1.4.0.nupkg.sha512",
+    "/Users/Vimlesh.Singh/.nuget/packages/mongodb.bson/2.14.1/mongodb.bson.2.14.1.nupkg.sha512",
+    "/Users/Vimlesh.Singh/.nuget/packages/mongodb.driver/2.14.1/mongodb.driver.2.14.1.nupkg.sha512",
+    "/Users/Vimlesh.Singh/.nuget/packages/mongodb.driver.core/2.14.1/mongodb.driver.core.2.14.1.nupkg.sha512",
+    "/Users/Vimlesh.Singh/.nuget/packages/mongodb.libmongocrypt/1.3.0/mongodb.libmongocrypt.1.3.0.nupkg.sha512",
+    "/Users/Vimlesh.Singh/.nuget/packages/sharpcompress/0.30.1/sharpcompress.0.30.1.nupkg.sha512",
+    "/Users/Vimlesh.Singh/.nuget/packages/system.buffers/4.5.1/system.buffers.4.5.1.nupkg.sha512",
+    "/Users/Vimlesh.Singh/.nuget/packages/system.runtime.compilerservices.unsafe/5.0.0/system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

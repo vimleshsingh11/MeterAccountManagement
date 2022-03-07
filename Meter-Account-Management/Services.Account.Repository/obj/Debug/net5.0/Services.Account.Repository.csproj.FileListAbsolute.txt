@@ -1,0 +1,15 @@
+/Users/Vimlesh.Singh/Projects/Meter-Account-Management/Services.Account.Repository/bin/Debug/net5.0/Services.Account.Repository.deps.json
+/Users/Vimlesh.Singh/Projects/Meter-Account-Management/Services.Account.Repository/bin/Debug/net5.0/Services.Account.Repository.dll
+/Users/Vimlesh.Singh/Projects/Meter-Account-Management/Services.Account.Repository/bin/Debug/net5.0/ref/Services.Account.Repository.dll
+/Users/Vimlesh.Singh/Projects/Meter-Account-Management/Services.Account.Repository/bin/Debug/net5.0/Services.Account.Repository.pdb
+/Users/Vimlesh.Singh/Projects/Meter-Account-Management/Services.Account.Repository/bin/Debug/net5.0/Services.Account.Surface.dll
+/Users/Vimlesh.Singh/Projects/Meter-Account-Management/Services.Account.Repository/bin/Debug/net5.0/Services.Account.Surface.pdb
+/Users/Vimlesh.Singh/Projects/Meter-Account-Management/Services.Account.Repository/obj/Debug/net5.0/Services.Account.Repository.csprojAssemblyReference.cache
+/Users/Vimlesh.Singh/Projects/Meter-Account-Management/Services.Account.Repository/obj/Debug/net5.0/Services.Account.Repository.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Vimlesh.Singh/Projects/Meter-Account-Management/Services.Account.Repository/obj/Debug/net5.0/Services.Account.Repository.AssemblyInfoInputs.cache
+/Users/Vimlesh.Singh/Projects/Meter-Account-Management/Services.Account.Repository/obj/Debug/net5.0/Services.Account.Repository.AssemblyInfo.cs
+/Users/Vimlesh.Singh/Projects/Meter-Account-Management/Services.Account.Repository/obj/Debug/net5.0/Services.Account.Repository.csproj.CoreCompileInputs.cache
+/Users/Vimlesh.Singh/Projects/Meter-Account-Management/Services.Account.Repository/obj/Debug/net5.0/Services.Account.Repository.csproj.CopyComplete
+/Users/Vimlesh.Singh/Projects/Meter-Account-Management/Services.Account.Repository/obj/Debug/net5.0/Services.Account.Repository.dll
+/Users/Vimlesh.Singh/Projects/Meter-Account-Management/Services.Account.Repository/obj/Debug/net5.0/ref/Services.Account.Repository.dll
+/Users/Vimlesh.Singh/Projects/Meter-Account-Management/Services.Account.Repository/obj/Debug/net5.0/Services.Account.Repository.pdb

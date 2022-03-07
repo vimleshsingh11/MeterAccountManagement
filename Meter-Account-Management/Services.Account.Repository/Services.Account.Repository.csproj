@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MongoDB.Driver" Version="2.14.1" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="DomainRepository\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Services.Account.Surface\Services.Account.Surface.csproj" />
+  </ItemGroup>
+</Project>

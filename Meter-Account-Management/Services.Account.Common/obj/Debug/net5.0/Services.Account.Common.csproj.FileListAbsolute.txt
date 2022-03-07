@@ -1,0 +1,12 @@
+/Users/Vimlesh.Singh/Projects/Meter-Account-Management/Services.Account.Common/bin/Debug/net5.0/Services.Account.Common.deps.json
+/Users/Vimlesh.Singh/Projects/Meter-Account-Management/Services.Account.Common/bin/Debug/net5.0/Services.Account.Common.dll
+/Users/Vimlesh.Singh/Projects/Meter-Account-Management/Services.Account.Common/bin/Debug/net5.0/ref/Services.Account.Common.dll
+/Users/Vimlesh.Singh/Projects/Meter-Account-Management/Services.Account.Common/bin/Debug/net5.0/Services.Account.Common.pdb
+/Users/Vimlesh.Singh/Projects/Meter-Account-Management/Services.Account.Common/obj/Debug/net5.0/Services.Account.Common.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Vimlesh.Singh/Projects/Meter-Account-Management/Services.Account.Common/obj/Debug/net5.0/Services.Account.Common.AssemblyInfoInputs.cache
+/Users/Vimlesh.Singh/Projects/Meter-Account-Management/Services.Account.Common/obj/Debug/net5.0/Services.Account.Common.AssemblyInfo.cs
+/Users/Vimlesh.Singh/Projects/Meter-Account-Management/Services.Account.Common/obj/Debug/net5.0/Services.Account.Common.csproj.CoreCompileInputs.cache
+/Users/Vimlesh.Singh/Projects/Meter-Account-Management/Services.Account.Common/obj/Debug/net5.0/Services.Account.Common.dll
+/Users/Vimlesh.Singh/Projects/Meter-Account-Management/Services.Account.Common/obj/Debug/net5.0/ref/Services.Account.Common.dll
+/Users/Vimlesh.Singh/Projects/Meter-Account-Management/Services.Account.Common/obj/Debug/net5.0/Services.Account.Common.pdb
+/Users/Vimlesh.Singh/Projects/Meter-Account-Management/Services.Account.Common/obj/Debug/net5.0/Services.Account.Common.csprojAssemblyReference.cache

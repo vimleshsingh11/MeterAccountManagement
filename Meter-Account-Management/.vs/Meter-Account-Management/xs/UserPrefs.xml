@@ -1,0 +1,86 @@
+﻿<Properties StartupConfiguration="{B5BF86CE-DC90-4CE2-A96A-F0635966F580}|Default">
+  <MonoDevelop.Ide.ItemProperties.src.Service.Services.Account.DomainApi PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Services.Account.Tests/Controller/AccountControllerTest.cs">
+    <Files>
+      <File FileName="Services.Account.DomainApi/Properties/launchSettings.json" Line="1" Column="1" />
+      <File FileName="Services.Account.DomainApi/Program.cs" />
+      <File FileName="Services.Account.DomainApi/Extenstion/ServiceExtenstion.cs" />
+      <File FileName="Services.Account.DomainApi/Domain/Applicant/Controller/ApplicantController.cs" />
+      <File FileName="Services.Account.DomainApi/Startup.cs" />
+      <File FileName="Services.Account.DomainApi/Domain/Applicant/Command/CustomerInformationCommand.cs" />
+      <File FileName="Services.Account.DomainApi/Domain/Applicant/Processor/ApplicantProcessor.cs" />
+      <File FileName="Services.Account.DomainApi/Domain/Applicant/Processor/IApplicantProcessor.cs" />
+      <File FileName="Services.Account.Repository/DomainRepository/MongoRepository.cs" />
+      <File FileName="Services.Account.DomainApi/Filter/GlobalExceptionFilter.cs" />
+      <File FileName="Services.Account.DomainApi/Domain/Account/Controller/AccountController.cs" Line="65" Column="1" />
+      <File FileName="Services.Account.DomainApi/Domain/Account/Processor /IAccountProcessor.cs" />
+      <File FileName="Services.Account.DomainApi/Domain/Account/Processor /AccountProcessor.cs" />
+      <File FileName="Services.Account.Surface/MeterDetails.cs" />
+      <File FileName="Services.Account.DomainApi/Common/ValidationMessages.cs" />
+      <File FileName="Services.Account.DomainApi/Common/Constants.cs" />
+      <File FileName="Services.Account.Tests/Controller/AccountControllerTest.cs" Line="46" Column="21" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Meter-Account-Management" expanded="True" selected="True">
+            <Node name="src" expanded="True">
+              <Node name="Service" expanded="True">
+                <Node name="Services.Account.DomainApi" expanded="True">
+                  <Node name="Domain" expanded="True">
+                    <Node name="Account" expanded="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+            <Node name="test" expanded="True">
+              <Node name="Services.Account.Tests" expanded="True">
+                <Node name="Dependencies" expanded="True" />
+                <Node name="Controller" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Meter-Account-Management" expanded="True">
+            <Node name="test" expanded="True">
+              <Node name="Services.Account.Tests" expanded="True">
+                <Node name="Services.Account.Tests.Controller" expanded="True">
+                  <Node name="AccountControllerTest" expanded="True">
+                    <Node name="GetAllMeterReading_When_Returns_Successfull_Response" selected="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <DisabledProjects>
+    <String>Services.Account.DomainApi/Services.Account.Surface/Services.Account.Surface.csproj</String>
+  </DisabledProjects>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/Vimlesh.Singh/Projects/Meter-Account-Management/Services.Account.DomainApi/Domain/Applicant/Controller/ApplicantController.cs" relfile="Services.Account.DomainApi/Domain/Applicant/Controller/ApplicantController.cs" line="104" column="1" />
+      <Breakpoint file="/Users/Vimlesh.Singh/Projects/Meter-Account-Management/Services.Account.Surface/Common/BsonCollectionAttribute.cs" relfile="Services.Account.Surface/Common/BsonCollectionAttribute.cs" line="14" column="1" />
+      <Breakpoint file="/Users/Vimlesh.Singh/Projects/Meter-Account-Management/Services.Account.DomainApi/Domain/Applicant/Processor/ApplicantProcessor.cs" relfile="Services.Account.DomainApi/Domain/Applicant/Processor/ApplicantProcessor.cs" line="69" column="1" />
+      <Breakpoint file="/Users/Vimlesh.Singh/Projects/Meter-Account-Management/Services.Account.DomainApi/Domain/Applicant/Processor/ApplicantProcessor.cs" relfile="Services.Account.DomainApi/Domain/Applicant/Processor/ApplicantProcessor.cs" line="66" column="1" />
+      <Breakpoint file="/Users/Vimlesh.Singh/Projects/Meter-Account-Management/Services.Account.DomainApi/Domain/Applicant/Processor/ApplicantProcessor.cs" relfile="Services.Account.DomainApi/Domain/Applicant/Processor/ApplicantProcessor.cs" line="63" column="1" />
+      <Breakpoint file="/Users/Vimlesh.Singh/Projects/Meter-Account-Management/Services.Account.DomainApi/Domain/Applicant/Processor/ApplicantProcessor.cs" relfile="Services.Account.DomainApi/Domain/Applicant/Processor/ApplicantProcessor.cs" line="61" column="1" />
+      <Breakpoint file="/Users/Vimlesh.Singh/Projects/Meter-Account-Management/Services.Account.DomainApi/Domain/Applicant/Controller/ApplicantController.cs" relfile="Services.Account.DomainApi/Domain/Applicant/Controller/ApplicantController.cs" line="111" column="1" />
+      <Breakpoint file="/Users/Vimlesh.Singh/Projects/Meter-Account-Management/Services.Account.DomainApi/Filter/GlobalExceptionFilter.cs" relfile="Services.Account.DomainApi/Filter/GlobalExceptionFilter.cs" line="25" column="1" />
+      <Breakpoint file="/Users/Vimlesh.Singh/Projects/Meter-Account-Management/Services.Account.DomainApi/Filter/GlobalExceptionFilter.cs" relfile="Services.Account.DomainApi/Filter/GlobalExceptionFilter.cs" line="31" column="1" />
+      <Breakpoint file="/Users/Vimlesh.Singh/Projects/Meter-Account-Management/Services.Account.DomainApi/Domain/Applicant/Processor/ApplicantProcessor.cs" relfile="Services.Account.DomainApi/Domain/Applicant/Processor/ApplicantProcessor.cs" line="77" column="1" />
+      <Breakpoint file="/Users/Vimlesh.Singh/Projects/Meter-Account-Management/Services.Account.DomainApi/Domain/Account/Processor /AccountProcessor.cs" relfile="Services.Account.DomainApi/Domain/Account/Processor /AccountProcessor.cs" line="111" column="1" />
+      <Breakpoint file="/Users/Vimlesh.Singh/Projects/Meter-Account-Management/Services.Account.DomainApi/Domain/Account/Processor /AccountProcessor.cs" relfile="Services.Account.DomainApi/Domain/Account/Processor /AccountProcessor.cs" line="91" column="1" />
+      <Breakpoint file="/Users/Vimlesh.Singh/Projects/Meter-Account-Management/Services.Account.Tests/Controller/AccountControllerTest.cs" relfile="Services.Account.Tests/Controller/AccountControllerTest.cs" line="34" column="1" />
+      <Breakpoint file="/Users/Vimlesh.Singh/Projects/Meter-Account-Management/Services.Account.DomainApi/Domain/Account/Controller/AccountController.cs" relfile="Services.Account.DomainApi/Domain/Account/Controller/AccountController.cs" line="64" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
